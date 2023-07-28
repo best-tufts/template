@@ -11,8 +11,8 @@ The bioinformatics workshop materials presented here are brought to you by the f
 - [Data Intensive Study Center (DISC)](https://disc.tufts.edu/)
 - [Clinical and Translational Science Institute (CTSI)](https://www.tuftsctsi.org/)
 
-## BEST e-list
+## Contact
 
-We are also happy to mention that the Bioinformatics team within TTS Research Technology has an elist, sign up with this link [best@elist.tufts.edu](https://elist.tufts.edu/sympa/subscribe/best?previous_action=info){:target="_blank" rel="noopener"} to find out about Bioinformatics Education and Services at Tufts
+To sign up for the BEST e-list use this link [best@elist.tufts.edu](https://elist.tufts.edu/sympa/subscribe/best?previous_action=info){:target="_blank" rel="noopener"} to find out about Bioinformatics Education and Services at Tufts
 
     
